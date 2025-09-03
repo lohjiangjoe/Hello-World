@@ -1,2 +1,2 @@
-# Hello-World
-Hi this is my first repo for learning GitHub.
+Hi, I am JJ
+My goal is to learn programming
